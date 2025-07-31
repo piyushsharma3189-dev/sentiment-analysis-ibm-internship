@@ -90,9 +90,9 @@ This project implements a comprehensive sentiment analysis system for e-commerce
 - Add real-time sentiment analysis capabilities
 
 ## 👤 Author
-**[Your Name]** - IBM Internship Candidate
-- Project Duration: [Month Year]
-- Contact: [Your Email]
+**[Piyush Sharma]** - IBM Internship Candidate
+- Project Duration: [07/2025]
+- Contact: [piyushsharma3189@gmail.com]
 
 ## 📄 License
 This project is created for educational purposes as part of IBM Internship program.
