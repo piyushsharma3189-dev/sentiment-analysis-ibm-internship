@@ -59,7 +59,7 @@ This project implements a comprehensive sentiment analysis system for e-commerce
 ### Execution
 1. Clone this repository
 2. Install dependencies
-3. Open `sentiment_analysis_project.ipynb` in Jupyter Notebook/VS Code
+3. Open `sentiment_analysis.ipynb` in Jupyter Notebook/VS Code
 4. Run all cells sequentially
 
 ## 📁 Project Structure
